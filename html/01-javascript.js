@@ -23,5 +23,39 @@ console.log(isim)
 // let url = "www.kodluyoruz.org" 
 // console.log(url)
 
-let title = document.getElementsByTagName ('h2')
-console.log(title)
+// let title = document.getElementsByTagName ('h2')
+// console.log(title)
+
+// let fullName = prompt ('lütfen adinizi giriniz')
+
+// let  title = document.querySelector("#title")
+
+// title.innerHTML = `${title.innerHTML} ${fullName} `
+
+ let price ="100"
+ let user =("Hakan")
+
+ console.log(price == 1) //eger esitse
+ console.log(price == 100)
+
+ console.log("=== :",price === 1) //hem türü hemde degeri esit ise
+ console.log("=== :",price === 100)
+
+  console.log(user != "guest") //esit degil ise 
+
+  console.log(price < 100) // kucukse , kucuk ve esitse 
+  console.log(price <= 100)
+
+  console.log(price > 100) // buyukse , buyuk ve esitse
+  console.log(price >= 100)
+
+//   if else
+// let userName = prompt ("adinizi girin")
+
+// if (userName.length >0 ) {
+//     console.log(`kullanıcı bilginiz ${userName}`)
+// } 
+// else  {
+//     console.log("bigli yok")
+// } 
+
